@@ -3,6 +3,6 @@
 #EXTINF: 1 tvg-logo="http://logo.mbed.cc/antara.png" group-title="Lokal", techstorm 
 http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=techstorm&bandwidth=default&sync=0
 #EXTINF: 1 tvg-logo="http://logo.mbed.cc/cartoonnetwork.png" group-title="Kids", cartoonnetwork
-http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=cartoonnetwork
+http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="" tvg-name="mtvlive" group-title="Music", mtvlive
 https://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=mtvlive&bandwidth=default&sync=0
