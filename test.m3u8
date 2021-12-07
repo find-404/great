@@ -2,3 +2,5 @@
 
 #EXTINF: 1 tvg-logo="http://logo.mbed.cc/antara.png" group-title="Lokal", techstorm 
 http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=techstorm&bandwidth=default&sync=0
+#EXTINF: 1 tvg-logo="http://logo.mbed.cc/antara.png" group-title="Lokal", techstorm 
+http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=cartoonnetwork&bandwidth=default&sync=0
