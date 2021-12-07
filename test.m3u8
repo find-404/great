@@ -6,3 +6,7 @@ http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=techstorm&ba
 http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="" tvg-name="mtvlive" group-title="Music", mtvlive
 https://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=mtvlive&bandwidth=default&sync=0
+#EXTINF: 1 tvg-logo="http://logo.mbed.cc/nickelodeon.png" group-title="Kids", nickelodeon 
+https://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=nickelodeon&bandwidth=default&sync=0
+#EXTINF: 1 tvg-logo="http://logo.mbed.cc/nickjr.png" group-title="Kids", nickjr 
+https://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.php?id=nickjr&bandwidth=default&sync=0
