@@ -161,6 +161,15 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",discovery
+http://new-pro.tv:8080/Fernando/123321/72707
+#EXTINF:-1 group-title="DENS.TV",discovery science
+http://new-pro.tv:8080/Fernando/123321/72710
+#EXTINF:-1 group-title="DENS.TV",fox sport 
+http://new-pro.tv:8080/Fernando/123321/116153
+#EXTINF:-1 group-title="DENS.TV",fox sport 2
+http://new-pro.tv:8080/Fernando/123321/116154
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="MUSIC" tvg-id="" tvg-name"MTV Biggest Pop ", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
