@@ -161,19 +161,20 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",discovery
+
+#EXTINF:-1 group-title="Deprecated",discovery
 http://new-pro.tv:8080/Fernando/123321/72707
-#EXTINF:-1 group-title="DENS.TV",discovery science
+#EXTINF:-1 group-title="Deprecated",discovery science
 http://new-pro.tv:8080/Fernando/123321/72710
-#EXTINF:-1 group-title="DENS.TV",fox sport 
+#EXTINF:-1 group-title="Deprecated",fox sport 
 http://new-pro.tv:8080/Fernando/123321/116153
-#EXTINF:-1 group-title="DENS.TV",fox sport 2
+#EXTINF:-1 group-title="Deprecated",fox sport 2
 http://new-pro.tv:8080/Fernando/123321/116154
-#EXTINF:-1 group-title="DENS.TV",RMC SPORT
+#EXTINF:-1 group-title="Deprecated",RMC SPORT
 http://new-pro.tv:8080/Fernando/123321/70686
-#EXTINF:-1 group-title="DENS.TV",PUBG ENGLISH
+#EXTINF:-1 group-title="Deprecated",PUBG ENGLISH
 http://new-pro.tv:8080/Fernando/123321/178410
-#EXTINF:-1 group-title="DENS.TV",FORNITE
+#EXTINF:-1 group-title="Deprecated",FORNITE
 http://new-pro.tv:8080/Fernando/123321/180091
 
 #EXTINF:-1 group-title="Kids", PUBG Arabic
