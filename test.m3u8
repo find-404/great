@@ -161,6 +161,37 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Live Streaming 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 group-title="DENS.TV",Live Streaming 2
+http://rr.dens.tv/h/h998/live.m3u8
+#EXTINF:-1 group-title="DENS.TV",ugtv
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="DENS.TV",discovery science
+http://new-pro.tv:8080/Fernando/123321/90132
+#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 
+http://axcestv.vip:8080/live/freeview/axcestv/785.ts
+#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 2
+http://axcestv.vip:8080/live/freeview/axcestv/785.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP
+http://axcestv.vip:8080/live/freeview/axcestv/787.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 2
+http://axcestv.vip:8080/live/freeview/axcestv/789.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 3
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 4
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 5
+http://axcestv.vip:8080/live/freeview/axcestv/792.ts
+#EXTINF:-1 group-title="DENS.TV",SPO TV
+http://axcestv.vip:8080/live/freeview/axcestv/807.ts
+#EXTINF:-1 group-title="DENS.TV",SPO TV 2
+http://axcestv.vip:8080/live/freeview/axcestv/977.ts
+#EXTINF:-1 group-title="DENS.TV",USEE SPORT
+http://axcestv.vip:8080/live/freeview/axcestv/805.ts
+#EXTINF:-1 group-title="DENS.TV",USEE SPORT 2
+http://axcestv.vip:8080/live/freeview/axcestv/806.ts
+
 
 #EXTINF:-1 group-title="Deprecated",discovery
 http://new-pro.tv:8080/Fernando/123321/72707
