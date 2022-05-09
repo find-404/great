@@ -161,36 +161,57 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Live Streaming 1
-http://rr3.dens.tv/s/s100/live.m3u8
-#EXTINF:-1 group-title="DENS.TV",Live Streaming 2
-http://rr.dens.tv/h/h998/live.m3u8
-#EXTINF:-1 group-title="DENS.TV",ugtv
+#EXTINF:-1  group-title="INDONESIA",ANTV
+http://axcestv.vip:8080/live/freeview/axcestv/658.ts
+#EXTINF:-1  group-title="INDONESIA",INDOSIAR
+http://axcestv.vip:8080/live/freeview/axcestv/659.ts
+#EXTINF:-1  group-title="INDONESIA",TRANS TV
+http://axcestv.vip:8080/live/freeview/axcestv/660.ts
+#EXTINF:-1  group-title="INDONESIA",TRANS 7
+http://axcestv.vip:8080/live/freeview/axcestv/661.ts
+#EXTINF:-1  group-title="INDONESIA",SCTV
+http://axcestv.vip:8080/live/freeview/axcestv/662.ts
+#EXTINF:-1  group-title="INDONESIA",MNCTV
+http://axcestv.vip:8080/live/freeview/axcestv/663.ts
+#EXTINF:-1  group-title="INDONESIA",RCTI
+http://axcestv.vip:8080/live/freeview/axcestv/664.ts
+#EXTINF:-1  group-title="INDONESIA",GTV
+http://axcestv.vip:8080/live/freeview/axcestv/665.ts
+#EXTINF:-1  group-title="INDONESIA",TVRI
+http://axcestv.vip:8080/live/freeview/axcestv/666.ts
+#EXTINF:-1  group-title="INDONESIA",RTV
+http://axcestv.vip:8080/live/freeview/axcestv/667.ts
+#EXTINF:-1  group-title="INDONESIA",CNN Indonesia
+http://axcestv.vip:8080/live/freeview/axcestv/752.ts
+#EXTINF:-1  group-title="INDONESIA",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 group-title="DENS.TV",discovery science
-http://new-pro.tv:8080/Fernando/123321/90132
-#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 
-http://axcestv.vip:8080/live/freeview/axcestv/785.ts
-#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 2
-http://axcestv.vip:8080/live/freeview/axcestv/785.ts
-#EXTINF:-1 group-title="DENS.TV",ASSP
-http://axcestv.vip:8080/live/freeview/axcestv/787.ts
-#EXTINF:-1 group-title="DENS.TV",ASSP 2
-http://axcestv.vip:8080/live/freeview/axcestv/789.ts
-#EXTINF:-1 group-title="DENS.TV",ASSP 3
-http://axcestv.vip:8080/live/freeview/axcestv/790.ts
-#EXTINF:-1 group-title="DENS.TV",ASSP 4
-http://axcestv.vip:8080/live/freeview/axcestv/791.ts
-#EXTINF:-1 group-title="DENS.TV",ASSP 5
-http://axcestv.vip:8080/live/freeview/axcestv/792.ts
-#EXTINF:-1 group-title="DENS.TV",SPO TV
-http://axcestv.vip:8080/live/freeview/axcestv/807.ts
-#EXTINF:-1 group-title="DENS.TV",SPO TV 2
-http://axcestv.vip:8080/live/freeview/axcestv/977.ts
-#EXTINF:-1 group-title="DENS.TV",USEE SPORT
+#EXTINF:-1  group-title="INDONESIA",USEE SPORT 1
 http://axcestv.vip:8080/live/freeview/axcestv/805.ts
-#EXTINF:-1 group-title="DENS.TV",USEE SPORT 2
+#EXTINF:-1  group-title="INDONESIA",USEE SPORT 2
 http://axcestv.vip:8080/live/freeview/axcestv/806.ts
+#EXTINF:-1  group-title="INDONESIA",SPOTV 1
+http://axcestv.vip:8080/live/freeview/axcestv/807.ts
+#EXTINF:-1 group-title="INDONESIA",SPOTV 2
+http://axcestv.vip:8080/live/freeview/axcestv/977.ts
+#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
+http://axcestv.vip:8080/live/freeview/axcestv/746.ts
+#EXTINF:-1 group-title="INDONESIA",INEWS
+http://axcestv.vip:8080/live/freeview/axcestv/744.ts
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://axcestv.vip:8080/live/freeview/axcestv/747.ts
+#EXTINF:-1 group-title="INDONESIA",DW TV
+http://axcestv.vip:8080/live/freeview/axcestv/753.ts
+#EXTINF:-1 group-title="INDONESIA",TVONE
+http://axcestv.vip:8080/live/freeview/axcestv/745.ts
+#EXTINF:-1 group-title="INDONESIA", AL QURAN TV
+http://axcestv.vip:8080/live/freeview/axcestv/756.ts
+#EXTINF:-1 group-title="INDONESIA", CHAMPION TV 1
+https://bagoltvku.my.id/CH/vid2/championstv1.m3u8
+#EXTINF:-1 group-title="INDONESIA", CHAMPION TV 2
+https://bagoltvku.my.id/CH/vid2/championstv2.m3u8
+#EXTINF:-1 group-title="INDONESIA", CHAMPION TV 3
+https://bagoltvku.my.id/CH/vid2/championstv3.m3u8
+
 
 
 #EXTINF:-1 group-title="Deprecated",discovery
