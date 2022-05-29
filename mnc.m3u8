@@ -56,10 +56,10 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TransTV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7
 http://rr.dens.tv/h/h11/index.m3u8
 
 
@@ -77,7 +77,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",Rajawali TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -91,14 +91,14 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg",JakTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -119,7 +119,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV Indonesia
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Daai TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -133,7 +133,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",Net.
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -154,7 +154,7 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -183,7 +183,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW English
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW-TV
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 
@@ -208,7 +208,7 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
@@ -506,28 +506,28 @@ http://210.210.155.35/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HD
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family HD
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits HD
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 
@@ -535,7 +535,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax HD
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
@@ -545,7 +545,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",WarnerTV 
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 
@@ -570,7 +570,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 
@@ -579,7 +579,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png",CinemaWorld
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -663,7 +663,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",BabyTV 
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -705,7 +705,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1||R{SSM}|
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr 
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Junior 
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
