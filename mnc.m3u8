@@ -989,5 +989,8 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International Asia Pacific
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://images.useetv.com/logo_mtvlive_small.png",MTV LIVE
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://images.useetv.com/logo_mtvlive_small.png",MTV LIVE
 http://iptvid.my.id/hmm/mtv.m3u8?by=iptv_id
+
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia
+http://iptvid.my.id/hmm/cn.m3u8?by=iptv_id
