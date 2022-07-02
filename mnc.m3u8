@@ -990,7 +990,7 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://images.useetv.com/logo_mtvlive_small.png",MTV LIVE
-http://iptvid.my.id/hmm/mtv.m3u8?by=iptv_id
+http://iptvid.my.id/kuy/mtv.m3u8?by=iptv_id
 
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia
-http://iptvid.my.id/hmm/cn.m3u8?by=iptv_id
+http://iptvid.my.id/kuy/cn.m3u8?by=iptv_id
